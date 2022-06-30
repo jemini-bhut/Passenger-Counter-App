@@ -1,0 +1,39 @@
+body {
+    background-image: url("Image.jpg");
+    background-size: cover;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: olivedrab;
+}
+
+h2 {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+#increment-button {
+    padding: 10px;
+    margin: 10px;
+    background: darkolivegreen;
+}
+
+#save-button {
+    padding: 10px;
+    margin: 10px;
+    background: darkolivegreen;
+}
+
+
+
